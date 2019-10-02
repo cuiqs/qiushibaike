@@ -1,0 +1,5 @@
+a.txt
+items.json
+qiushibaike
+README.md
+scrapy.cfg
